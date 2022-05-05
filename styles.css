@@ -1,0 +1,9 @@
+body {
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+.body-top {
+    padding: 16px 50px;
+}
