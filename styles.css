@@ -154,3 +154,14 @@ body {
     font-size: 18px;
     margin-left: auto;
 }
+
+.footer {
+    background-color:#1F2937;
+    padding: 20px 200px;
+}
+
+.footer p {
+    font-size: 18px;
+    color: #E5E7EB;
+    text-align: center;
+}
