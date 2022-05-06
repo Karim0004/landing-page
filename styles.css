@@ -79,7 +79,7 @@ body {
 .cards {
     display: flex;
     justify-content: center;
-    gap: 60px;
+    gap: 70px;
 }
 
 .card {
@@ -98,4 +98,24 @@ body {
     border-color: #3882F6;
     border-radius: 16px;
     border-width: 4px;
+}
+
+.quote {
+    padding: 100px 200px;
+    background-color: #E5E7EB;
+}
+
+.quote p:first-child {
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 36px;
+    color: #1F2937;
+    text-align: justify;
+}
+
+.quote p:last-child {
+    text-align: right;
+    font-size: 18px;
+    color: #1F2937;
+    font-weight: bold;
 }
